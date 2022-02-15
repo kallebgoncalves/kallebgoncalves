@@ -1,8 +1,4 @@
-## Olá! Eu sou o Kalleb Gonçalves, desenvolvedor Front-End.Cancel changes
-
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando React
-- 📫 Contate-me no email: kallebgoncalves@yahoo.com.br
+## Olá! Eu sou o Kalleb Gonçalves, desenvolvedor Front-End.
 
 <div align="center">
   <a href="https://github.com/kallebgoncalves">
