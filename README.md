@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kalleb Gonçalves, desenvolvedor Front-End.
+## Olá! Eu sou o Kalleb Gonçalves, desenvolvedor Front-End.Cancel changes
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando React
@@ -6,6 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/kallebgoncalves">
-  <img width="80px" height="180px" src="https://github-readme-stats.vercel.app/api?username=kallebgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="180px" height="160px" src="https://github-readme-stats.vercel.app/api?username=kallebgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebgoncalves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
