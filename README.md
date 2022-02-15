@@ -1,8 +1,8 @@
-# Olá! Eu sou o Kalleb Gonçalves
+## Olá! Eu sou o Kalleb Gonçalves
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando React
-- 📫 contate-me no email: kallebgoncalves@yahoo.com.br
+- 📫 Contate-me no email: kallebgoncalves@yahoo.com.br
 
 <div align="center">
   <a href="https://github.com/kallebgoncalves">
