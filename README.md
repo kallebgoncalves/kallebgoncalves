@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kalleb Gonçalves
+## Olá! Eu sou o Kalleb Gonçalves, desenvolvedor Front-End.
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando React
