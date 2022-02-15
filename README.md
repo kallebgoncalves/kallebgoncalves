@@ -13,8 +13,8 @@
   <img align="center" alt="Kalleb-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
- ## 
-
-  <div>
-  
-  </div>
+ ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/kallebgon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
